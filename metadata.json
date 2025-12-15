@@ -1,0 +1,7 @@
+{
+  "name": "StockMaster Pro",
+  "description": "A modern, minimalist inventory management system with QR scanning, expiration tracking, and real-time analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
